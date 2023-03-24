@@ -9,6 +9,8 @@
 
                     npm install 
 
+5.- Ceate db (postgres)
+
 CREATE DATABASE geospatial;
 
 \c geospatial;
